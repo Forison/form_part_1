@@ -36,7 +36,7 @@ The demo page can be found [HERE](https://forison.github.io/re_former/)
 
 ## Contributing
 
-1. Fork it (https://github.com/forison/Using-Bootstrap/fork)
+1. Fork it (https://github.com/forison/re_former/fork)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
