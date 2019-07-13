@@ -1,8 +1,7 @@
-# USING BOOTSTRAP
+# sign up developement with rails
 
-A practical demonstration of designing a form with Ruby on Rails using both HTML and Rails helpers.
-This project is designed to look like [Twitter sign up page](https://www.twitter.com/),
-The project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
+This is a project is a sign up page for new users.
+(https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
 ## Technologies
 
@@ -15,20 +14,20 @@ The project is part of a series of projects to be completed by students of [Micr
 > Clone the repository to your local machine
 
 ```sh
-$ git clone https://github.com/forison/re_former.git
+$ git clone https://github.com/forison/sign_up.git
 ```
 
 > cd into the directory
 
 ```sh
-$ cd re_former
+$ cd sign_up
 ```
 
 > rails s.
 
 ## Deployment
 
-The demo page can be found [HERE](https://forison.github.io/re_former/)
+The demo page can be found [HERE](https://forison.github.io/sign_up/)
 
 ## Designed and developed by
 
