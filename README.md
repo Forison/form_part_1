@@ -1,7 +1,7 @@
 # sign up developement with rails
 
 This is a project is a sign up page for new users.
-(https://www.microverse.org/ "The Global School for Remote Software Developers!").
+
 
 ## Technologies
 
